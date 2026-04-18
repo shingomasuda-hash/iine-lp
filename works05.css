@@ -587,6 +587,12 @@ img { max-width: 100%; display: block; }
 }
 .back-link:hover { opacity: .7; }
 
+.pdf-download-group {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
 .pdf-download-btn {
   display: inline-flex;
   align-items: center;
